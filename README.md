@@ -1,7 +1,6 @@
 # Sign_Language
  
 # Sign Language Recognition using MediaPipe and Random Forest Classifier — Intel oneAPI Optimised Scikit-Learn Library
-<!-- ![Untitled design (4)](https://user-images.githubusercontent.com/100186186/226212948-2793b61d-1fba-4f6e-b0be-ad526b263154.png) -->
 ## Problem Statement
 American sign Language, is a natural language that serves as the predominant sign language of Deaf communities. But, deaf people often have difficulties talking to abled people because not everyone knows all the alphabets of sign langauge. So, we need a mechanism to automate this.<br>
 ## Solution Strategy
@@ -21,5 +20,3 @@ $pip install mediapipe
 $cd sign_Language
 $python model_test.py
 ~~~~
-<!-- # Demo
-https://youtu.be/168r68b_yfM -->
