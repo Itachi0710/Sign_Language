@@ -13,7 +13,7 @@ mediapipe<br>
 scikit-learn intelex<br>
 Numpy<br>
 Pickle<br>
-## To run signlanguage_recognition
+## To run Sign_Language
 ~~~~
 $pip install scikit-learn intelex
 $pip install opencv-python
